@@ -1,4 +1,3 @@
----
 
 # Cochlear Implant Signal Processing – SYDE 252 Project
 
